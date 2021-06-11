@@ -1,5 +1,10 @@
+
 mucha vitamina
 
 no creo que tenga tanta
 
+<<<<<<< HEAD
 verde y peludito
+=======
+Pero voy a tenerlo en cuenta para investigar
+>>>>>>> 76164de4274521be35eee1ecdd6ab943449eb6b6
